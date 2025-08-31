@@ -1,0 +1,44 @@
+2025/08/31-14:03:12.758 15c56 Reusing MANIFEST /Users/piyushpandey955/Documents/project jarves/wpBot/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/31-14:03:12.759 15c56 Recovering log #125
+2025/08/31-14:03:12.781 15c56 Reusing old log /Users/piyushpandey955/Documents/project jarves/wpBot/selenium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000125.log 
+2025/08/31-14:03:14.087 15c4a Level-0 table #132: started
+2025/08/31-14:03:14.100 15c4a Level-0 table #132: 747051 bytes OK
+2025/08/31-14:03:14.101 15c4a Delete type=0 #125
+2025/08/31-14:03:14.102 15c4a Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/31-14:03:14.732 15c4c Compacting 1@1 + 4@2 files
+2025/08/31-14:03:14.773 15c4c Generated table #133@1: 50145 keys, 2209969 bytes
+2025/08/31-14:03:14.799 15c4c Generated table #134@1: 30795 keys, 1905779 bytes
+2025/08/31-14:03:14.799 15c4c Compacted 1@1 + 4@2 files => 4115748 bytes
+2025/08/31-14:03:14.802 15c4c compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/08/31-14:03:14.802 15c4c Delete type=2 #129
+2025/08/31-14:03:14.802 15c4c Delete type=2 #128
+2025/08/31-14:03:14.802 15c4c Delete type=2 #124
+2025/08/31-14:03:14.802 15c4c Delete type=2 #132
+2025/08/31-14:03:14.802 15c4c Delete type=2 #127
+2025/08/31-14:03:33.785 15c56 Level-0 table #136: started
+2025/08/31-14:03:33.799 15c56 Level-0 table #136: 1116838 bytes OK
+2025/08/31-14:03:33.802 15c56 Delete type=0 #131
+2025/08/31-14:03:33.803 15c4a Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/31-14:03:34.425 15c4c Compacting 1@1 + 2@2 files
+2025/08/31-14:03:34.465 15c4c Generated table #137@1: 50792 keys, 2211194 bytes
+2025/08/31-14:03:34.495 15c4c Generated table #138@1: 39030 keys, 2199406 bytes
+2025/08/31-14:03:34.498 15c4c Generated table #139@1: 5708 keys, 118260 bytes
+2025/08/31-14:03:34.498 15c4c Compacted 1@1 + 2@2 files => 4528860 bytes
+2025/08/31-14:03:34.501 15c4c compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/08/31-14:03:34.501 15c4c Delete type=2 #136
+2025/08/31-14:03:34.501 15c4c Delete type=2 #134
+2025/08/31-14:03:34.501 15c4c Delete type=2 #133
+2025/08/31-14:03:46.026 15c56 Level-0 table #141: started
+2025/08/31-14:03:46.047 15c56 Level-0 table #141: 753831 bytes OK
+2025/08/31-14:03:46.050 15c56 Delete type=0 #135
+2025/08/31-14:03:46.050 15c4a Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/31-14:03:46.670 15c4c Compacting 1@1 + 3@2 files
+2025/08/31-14:03:46.707 15c4c Generated table #142@1: 51665 keys, 2211407 bytes
+2025/08/31-14:03:46.734 15c4c Generated table #143@1: 35329 keys, 2196580 bytes
+2025/08/31-14:03:46.743 15c4c Generated table #144@1: 17158 keys, 341852 bytes
+2025/08/31-14:03:46.743 15c4c Compacted 1@1 + 3@2 files => 4749839 bytes
+2025/08/31-14:03:46.745 15c4c compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/08/31-14:03:46.746 15c4c Delete type=2 #138
+2025/08/31-14:03:46.746 15c4c Delete type=2 #139
+2025/08/31-14:03:46.746 15c4c Delete type=2 #141
+2025/08/31-14:03:46.746 15c4c Delete type=2 #137
